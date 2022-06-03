@@ -4,8 +4,7 @@
 
 #Control Flow Graph
 
-
-![](../CFG.drawio.png)
+![CONTROL FLOW DIAGRAM](https://github.com/Smladenovska/SI_2022_lab2_196065/blob/master/CFG.drawio.png?raw=true)
 
 # Цикломатска комплексност
 
