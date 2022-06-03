@@ -19,7 +19,10 @@ public class SILab2Test {
 
         illegalPerfect = assertThrows(IllegalArgumentException.class, () ->SILab2.function(case2));
         assertTrue(illegalPerfect.getMessage().contains("List length should be a perfect square"));
+    }
 
+    @Test
+    void everyStatementTest(){
 
 
     }
